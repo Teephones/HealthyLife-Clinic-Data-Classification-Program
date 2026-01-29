@@ -11,7 +11,8 @@ The goal of this project is to demonstrate practical GRC capabilities by designi
 ## 📄 Included Deliverables
 
 - **Data Classification & Handling Program** (policy document)  
-- **Data Classification Matrix** (Excel)  
+- **Data Classification Matrix** (Excel)
+  Note: GitHub preview may distort the formatting of the Excel matrix. Please download the file to view it properly.
 - **Handling Requirements** for each classification level  
 - **Roles & Responsibilities** for data governance  
 - **One‑Page Awareness Guide** for staff  
