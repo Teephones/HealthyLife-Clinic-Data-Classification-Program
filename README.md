@@ -8,6 +8,35 @@ This repository contains a complete Data Classification & Handling Program desig
 
 The goal of this project is to demonstrate practical GRC capabilities by designing a healthcare‑focused data governance framework from scratch. It outlines how healthcare data—especially PHI—should be classified, stored, transmitted, accessed, and disposed of in a secure and compliant manner.
 
+**Regulatory & Framework Alignment**
+Although HealthyLife Clinic is fictional, this project is intentionally designed to reflect real‑world healthcare compliance expectations. The structure and controls align with:
+
+**HIPAA (Privacy & Security Rule)**
+Protection of PHI
+Access control & least privilege
+Encryption in transit and at rest
+Audit logging & monitoring
+Secure disposal of sensitive data
+Workforce awareness and defined responsibilities
+
+**NIST 800‑53**
+Controls map to major NIST families such as:
+AC – Access Control
+SC – System & Communications Protection
+MP – Media Protection
+AU – Audit & Accountability
+PL – Planning
+
+**ISO 27001**
+The program reflects ISO 27001 principles around:
+Information security policies
+Asset classification
+Access control
+Cryptographic controls
+Operational security
+
+This alignment demonstrates the ability to design governance documentation that mirrors real compliance and security expectations in healthcare environments.
+
 ## 📄 Included Deliverables
 
 - **Data Classification & Handling Program** (policy document)  
