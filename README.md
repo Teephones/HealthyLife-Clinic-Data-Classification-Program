@@ -8,7 +8,7 @@ This repository contains a complete Data Classification & Handling Program desig
 
 The goal of this project is to demonstrate practical GRC capabilities by designing a healthcare‑focused data governance framework from scratch. It outlines how healthcare data—especially PHI—should be classified, stored, transmitted, accessed, and disposed of in a secure and compliant manner.
 
-**Regulatory & Framework Alignment**
+## Regulatory & Framework Alignment
 Although HealthyLife Clinic is fictional, this project is intentionally designed to reflect real‑world healthcare compliance expectations. The structure and controls align with:
 
 **HIPAA (Privacy & Security Rule)**
